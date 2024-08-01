@@ -1,0 +1,8 @@
+.env
+/node_modules 
+
+node_modules/
+frontend/notes-app/node_modules/
+backend/node_modules/
+
+frontend/notes-app/dist/
