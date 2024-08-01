@@ -2,7 +2,7 @@ import axios from 'axios'
 import { BASE_URL } from '../utils/constants'
 
 const axiosInstance = axios.create({
-    baseURL: BASE_URL ,
+    baseURL: "https://notesapp-wzor.onrender.com" ,
     timeout: 10000 ,
     headers:{
         'Content-Type': 'application/json'
